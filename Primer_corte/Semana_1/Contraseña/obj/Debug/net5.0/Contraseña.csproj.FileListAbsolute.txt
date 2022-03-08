@@ -1,0 +1,16 @@
+C:\Users\Maste\source\repos\Contraseña\bin\Debug\net5.0\Contraseña.exe
+C:\Users\Maste\source\repos\Contraseña\bin\Debug\net5.0\Contraseña.deps.json
+C:\Users\Maste\source\repos\Contraseña\bin\Debug\net5.0\Contraseña.runtimeconfig.json
+C:\Users\Maste\source\repos\Contraseña\bin\Debug\net5.0\Contraseña.runtimeconfig.dev.json
+C:\Users\Maste\source\repos\Contraseña\bin\Debug\net5.0\Contraseña.dll
+C:\Users\Maste\source\repos\Contraseña\bin\Debug\net5.0\ref\Contraseña.dll
+C:\Users\Maste\source\repos\Contraseña\bin\Debug\net5.0\Contraseña.pdb
+C:\Users\Maste\source\repos\Contraseña\obj\Debug\net5.0\Contraseña.csproj.AssemblyReference.cache
+C:\Users\Maste\source\repos\Contraseña\obj\Debug\net5.0\Contraseña.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maste\source\repos\Contraseña\obj\Debug\net5.0\Contraseña.AssemblyInfoInputs.cache
+C:\Users\Maste\source\repos\Contraseña\obj\Debug\net5.0\Contraseña.AssemblyInfo.cs
+C:\Users\Maste\source\repos\Contraseña\obj\Debug\net5.0\Contraseña.csproj.CoreCompileInputs.cache
+C:\Users\Maste\source\repos\Contraseña\obj\Debug\net5.0\Contraseña.dll
+C:\Users\Maste\source\repos\Contraseña\obj\Debug\net5.0\ref\Contraseña.dll
+C:\Users\Maste\source\repos\Contraseña\obj\Debug\net5.0\Contraseña.pdb
+C:\Users\Maste\source\repos\Contraseña\obj\Debug\net5.0\Contraseña.genruntimeconfig.cache

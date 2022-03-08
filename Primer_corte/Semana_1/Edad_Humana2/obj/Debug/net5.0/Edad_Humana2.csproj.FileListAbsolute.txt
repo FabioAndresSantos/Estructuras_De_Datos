@@ -1,0 +1,16 @@
+C:\Users\Maste\source\repos\Edad_Humana2\obj\Debug\net5.0\Edad_Humana2.csproj.AssemblyReference.cache
+C:\Users\Maste\source\repos\Edad_Humana2\obj\Debug\net5.0\Edad_Humana2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maste\source\repos\Edad_Humana2\obj\Debug\net5.0\Edad_Humana2.AssemblyInfoInputs.cache
+C:\Users\Maste\source\repos\Edad_Humana2\obj\Debug\net5.0\Edad_Humana2.AssemblyInfo.cs
+C:\Users\Maste\source\repos\Edad_Humana2\obj\Debug\net5.0\Edad_Humana2.csproj.CoreCompileInputs.cache
+C:\Users\Maste\source\repos\Edad_Humana2\bin\Debug\net5.0\Edad_Humana2.exe
+C:\Users\Maste\source\repos\Edad_Humana2\bin\Debug\net5.0\Edad_Humana2.deps.json
+C:\Users\Maste\source\repos\Edad_Humana2\bin\Debug\net5.0\Edad_Humana2.runtimeconfig.json
+C:\Users\Maste\source\repos\Edad_Humana2\bin\Debug\net5.0\Edad_Humana2.runtimeconfig.dev.json
+C:\Users\Maste\source\repos\Edad_Humana2\bin\Debug\net5.0\Edad_Humana2.dll
+C:\Users\Maste\source\repos\Edad_Humana2\bin\Debug\net5.0\ref\Edad_Humana2.dll
+C:\Users\Maste\source\repos\Edad_Humana2\bin\Debug\net5.0\Edad_Humana2.pdb
+C:\Users\Maste\source\repos\Edad_Humana2\obj\Debug\net5.0\Edad_Humana2.dll
+C:\Users\Maste\source\repos\Edad_Humana2\obj\Debug\net5.0\ref\Edad_Humana2.dll
+C:\Users\Maste\source\repos\Edad_Humana2\obj\Debug\net5.0\Edad_Humana2.pdb
+C:\Users\Maste\source\repos\Edad_Humana2\obj\Debug\net5.0\Edad_Humana2.genruntimeconfig.cache

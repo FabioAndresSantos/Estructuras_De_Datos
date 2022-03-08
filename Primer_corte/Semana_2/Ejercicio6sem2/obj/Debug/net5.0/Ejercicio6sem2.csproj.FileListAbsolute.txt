@@ -1,0 +1,16 @@
+C:\Users\Maste\OneDrive\Escritorio\Archivos Semana2\Ejercicio6sem2\bin\Debug\net5.0\Ejercicio6sem2.exe
+C:\Users\Maste\OneDrive\Escritorio\Archivos Semana2\Ejercicio6sem2\bin\Debug\net5.0\Ejercicio6sem2.deps.json
+C:\Users\Maste\OneDrive\Escritorio\Archivos Semana2\Ejercicio6sem2\bin\Debug\net5.0\Ejercicio6sem2.runtimeconfig.json
+C:\Users\Maste\OneDrive\Escritorio\Archivos Semana2\Ejercicio6sem2\bin\Debug\net5.0\Ejercicio6sem2.runtimeconfig.dev.json
+C:\Users\Maste\OneDrive\Escritorio\Archivos Semana2\Ejercicio6sem2\bin\Debug\net5.0\Ejercicio6sem2.dll
+C:\Users\Maste\OneDrive\Escritorio\Archivos Semana2\Ejercicio6sem2\bin\Debug\net5.0\ref\Ejercicio6sem2.dll
+C:\Users\Maste\OneDrive\Escritorio\Archivos Semana2\Ejercicio6sem2\bin\Debug\net5.0\Ejercicio6sem2.pdb
+C:\Users\Maste\OneDrive\Escritorio\Archivos Semana2\Ejercicio6sem2\obj\Debug\net5.0\Ejercicio6sem2.csproj.AssemblyReference.cache
+C:\Users\Maste\OneDrive\Escritorio\Archivos Semana2\Ejercicio6sem2\obj\Debug\net5.0\Ejercicio6sem2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maste\OneDrive\Escritorio\Archivos Semana2\Ejercicio6sem2\obj\Debug\net5.0\Ejercicio6sem2.AssemblyInfoInputs.cache
+C:\Users\Maste\OneDrive\Escritorio\Archivos Semana2\Ejercicio6sem2\obj\Debug\net5.0\Ejercicio6sem2.AssemblyInfo.cs
+C:\Users\Maste\OneDrive\Escritorio\Archivos Semana2\Ejercicio6sem2\obj\Debug\net5.0\Ejercicio6sem2.csproj.CoreCompileInputs.cache
+C:\Users\Maste\OneDrive\Escritorio\Archivos Semana2\Ejercicio6sem2\obj\Debug\net5.0\Ejercicio6sem2.dll
+C:\Users\Maste\OneDrive\Escritorio\Archivos Semana2\Ejercicio6sem2\obj\Debug\net5.0\ref\Ejercicio6sem2.dll
+C:\Users\Maste\OneDrive\Escritorio\Archivos Semana2\Ejercicio6sem2\obj\Debug\net5.0\Ejercicio6sem2.pdb
+C:\Users\Maste\OneDrive\Escritorio\Archivos Semana2\Ejercicio6sem2\obj\Debug\net5.0\Ejercicio6sem2.genruntimeconfig.cache

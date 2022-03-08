@@ -1,0 +1,16 @@
+C:\Users\Maste\OneDrive\Escritorio\Archivos Semana1\Vocales\bin\Debug\net5.0\Vocales.exe
+C:\Users\Maste\OneDrive\Escritorio\Archivos Semana1\Vocales\bin\Debug\net5.0\Vocales.deps.json
+C:\Users\Maste\OneDrive\Escritorio\Archivos Semana1\Vocales\bin\Debug\net5.0\Vocales.runtimeconfig.json
+C:\Users\Maste\OneDrive\Escritorio\Archivos Semana1\Vocales\bin\Debug\net5.0\Vocales.runtimeconfig.dev.json
+C:\Users\Maste\OneDrive\Escritorio\Archivos Semana1\Vocales\bin\Debug\net5.0\Vocales.dll
+C:\Users\Maste\OneDrive\Escritorio\Archivos Semana1\Vocales\bin\Debug\net5.0\ref\Vocales.dll
+C:\Users\Maste\OneDrive\Escritorio\Archivos Semana1\Vocales\bin\Debug\net5.0\Vocales.pdb
+C:\Users\Maste\OneDrive\Escritorio\Archivos Semana1\Vocales\obj\Debug\net5.0\Vocales.csproj.AssemblyReference.cache
+C:\Users\Maste\OneDrive\Escritorio\Archivos Semana1\Vocales\obj\Debug\net5.0\Vocales.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maste\OneDrive\Escritorio\Archivos Semana1\Vocales\obj\Debug\net5.0\Vocales.AssemblyInfoInputs.cache
+C:\Users\Maste\OneDrive\Escritorio\Archivos Semana1\Vocales\obj\Debug\net5.0\Vocales.AssemblyInfo.cs
+C:\Users\Maste\OneDrive\Escritorio\Archivos Semana1\Vocales\obj\Debug\net5.0\Vocales.csproj.CoreCompileInputs.cache
+C:\Users\Maste\OneDrive\Escritorio\Archivos Semana1\Vocales\obj\Debug\net5.0\Vocales.dll
+C:\Users\Maste\OneDrive\Escritorio\Archivos Semana1\Vocales\obj\Debug\net5.0\ref\Vocales.dll
+C:\Users\Maste\OneDrive\Escritorio\Archivos Semana1\Vocales\obj\Debug\net5.0\Vocales.pdb
+C:\Users\Maste\OneDrive\Escritorio\Archivos Semana1\Vocales\obj\Debug\net5.0\Vocales.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Ejercicio8sem2/1.0.0": {
+        "runtime": {
+          "Ejercicio8sem2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ejercicio8sem2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
