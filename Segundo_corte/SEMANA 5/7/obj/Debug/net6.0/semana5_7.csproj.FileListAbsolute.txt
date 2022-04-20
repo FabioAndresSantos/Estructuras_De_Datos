@@ -1,0 +1,15 @@
+C:\Users\Andres Santos\Desktop\prueba\semana5_7\obj\Debug\net6.0\semana5_7.csproj.AssemblyReference.cache
+C:\Users\Andres Santos\Desktop\prueba\semana5_7\obj\Debug\net6.0\semana5_7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andres Santos\Desktop\prueba\semana5_7\obj\Debug\net6.0\semana5_7.AssemblyInfoInputs.cache
+C:\Users\Andres Santos\Desktop\prueba\semana5_7\obj\Debug\net6.0\semana5_7.AssemblyInfo.cs
+C:\Users\Andres Santos\Desktop\prueba\semana5_7\obj\Debug\net6.0\semana5_7.csproj.CoreCompileInputs.cache
+C:\Users\Andres Santos\Desktop\prueba\semana5_7\bin\Debug\net6.0\semana5_7.exe
+C:\Users\Andres Santos\Desktop\prueba\semana5_7\bin\Debug\net6.0\semana5_7.deps.json
+C:\Users\Andres Santos\Desktop\prueba\semana5_7\bin\Debug\net6.0\semana5_7.runtimeconfig.json
+C:\Users\Andres Santos\Desktop\prueba\semana5_7\bin\Debug\net6.0\semana5_7.dll
+C:\Users\Andres Santos\Desktop\prueba\semana5_7\bin\Debug\net6.0\semana5_7.pdb
+C:\Users\Andres Santos\Desktop\prueba\semana5_7\obj\Debug\net6.0\semana5_7.dll
+C:\Users\Andres Santos\Desktop\prueba\semana5_7\obj\Debug\net6.0\refint\semana5_7.dll
+C:\Users\Andres Santos\Desktop\prueba\semana5_7\obj\Debug\net6.0\semana5_7.pdb
+C:\Users\Andres Santos\Desktop\prueba\semana5_7\obj\Debug\net6.0\semana5_7.genruntimeconfig.cache
+C:\Users\Andres Santos\Desktop\prueba\semana5_7\obj\Debug\net6.0\ref\semana5_7.dll

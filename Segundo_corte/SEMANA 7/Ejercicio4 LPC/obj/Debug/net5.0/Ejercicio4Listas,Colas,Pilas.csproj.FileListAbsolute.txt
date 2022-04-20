@@ -1,0 +1,16 @@
+C:\Programas\Estructuras_de_datos\Segundo_corte\Semana6\Semana9\PIlas_Colas_Listas\Ejercicio4Listas,Colas,Pilas\bin\Debug\net5.0\Ejercicio4Listas,Colas,Pilas.exe
+C:\Programas\Estructuras_de_datos\Segundo_corte\Semana6\Semana9\PIlas_Colas_Listas\Ejercicio4Listas,Colas,Pilas\bin\Debug\net5.0\Ejercicio4Listas,Colas,Pilas.deps.json
+C:\Programas\Estructuras_de_datos\Segundo_corte\Semana6\Semana9\PIlas_Colas_Listas\Ejercicio4Listas,Colas,Pilas\bin\Debug\net5.0\Ejercicio4Listas,Colas,Pilas.runtimeconfig.json
+C:\Programas\Estructuras_de_datos\Segundo_corte\Semana6\Semana9\PIlas_Colas_Listas\Ejercicio4Listas,Colas,Pilas\bin\Debug\net5.0\Ejercicio4Listas,Colas,Pilas.runtimeconfig.dev.json
+C:\Programas\Estructuras_de_datos\Segundo_corte\Semana6\Semana9\PIlas_Colas_Listas\Ejercicio4Listas,Colas,Pilas\bin\Debug\net5.0\Ejercicio4Listas,Colas,Pilas.dll
+C:\Programas\Estructuras_de_datos\Segundo_corte\Semana6\Semana9\PIlas_Colas_Listas\Ejercicio4Listas,Colas,Pilas\bin\Debug\net5.0\ref\Ejercicio4Listas,Colas,Pilas.dll
+C:\Programas\Estructuras_de_datos\Segundo_corte\Semana6\Semana9\PIlas_Colas_Listas\Ejercicio4Listas,Colas,Pilas\bin\Debug\net5.0\Ejercicio4Listas,Colas,Pilas.pdb
+C:\Programas\Estructuras_de_datos\Segundo_corte\Semana6\Semana9\PIlas_Colas_Listas\Ejercicio4Listas,Colas,Pilas\obj\Debug\net5.0\Ejercicio4Listas,Colas,Pilas.csproj.AssemblyReference.cache
+C:\Programas\Estructuras_de_datos\Segundo_corte\Semana6\Semana9\PIlas_Colas_Listas\Ejercicio4Listas,Colas,Pilas\obj\Debug\net5.0\Ejercicio4Listas,Colas,Pilas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programas\Estructuras_de_datos\Segundo_corte\Semana6\Semana9\PIlas_Colas_Listas\Ejercicio4Listas,Colas,Pilas\obj\Debug\net5.0\Ejercicio4Listas,Colas,Pilas.AssemblyInfoInputs.cache
+C:\Programas\Estructuras_de_datos\Segundo_corte\Semana6\Semana9\PIlas_Colas_Listas\Ejercicio4Listas,Colas,Pilas\obj\Debug\net5.0\Ejercicio4Listas,Colas,Pilas.AssemblyInfo.cs
+C:\Programas\Estructuras_de_datos\Segundo_corte\Semana6\Semana9\PIlas_Colas_Listas\Ejercicio4Listas,Colas,Pilas\obj\Debug\net5.0\Ejercicio4Listas,Colas,Pilas.csproj.CoreCompileInputs.cache
+C:\Programas\Estructuras_de_datos\Segundo_corte\Semana6\Semana9\PIlas_Colas_Listas\Ejercicio4Listas,Colas,Pilas\obj\Debug\net5.0\Ejercicio4Listas,Colas,Pilas.dll
+C:\Programas\Estructuras_de_datos\Segundo_corte\Semana6\Semana9\PIlas_Colas_Listas\Ejercicio4Listas,Colas,Pilas\obj\Debug\net5.0\ref\Ejercicio4Listas,Colas,Pilas.dll
+C:\Programas\Estructuras_de_datos\Segundo_corte\Semana6\Semana9\PIlas_Colas_Listas\Ejercicio4Listas,Colas,Pilas\obj\Debug\net5.0\Ejercicio4Listas,Colas,Pilas.pdb
+C:\Programas\Estructuras_de_datos\Segundo_corte\Semana6\Semana9\PIlas_Colas_Listas\Ejercicio4Listas,Colas,Pilas\obj\Debug\net5.0\Ejercicio4Listas,Colas,Pilas.genruntimeconfig.cache

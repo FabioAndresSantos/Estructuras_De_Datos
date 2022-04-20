@@ -1,0 +1,16 @@
+C:\Programas\Estructuras_de_datos\Segundo_corte\Semana6\Semana8\Arraylist\Arraylist11\bin\Debug\net5.0\Arraylist11.exe
+C:\Programas\Estructuras_de_datos\Segundo_corte\Semana6\Semana8\Arraylist\Arraylist11\bin\Debug\net5.0\Arraylist11.deps.json
+C:\Programas\Estructuras_de_datos\Segundo_corte\Semana6\Semana8\Arraylist\Arraylist11\bin\Debug\net5.0\Arraylist11.runtimeconfig.json
+C:\Programas\Estructuras_de_datos\Segundo_corte\Semana6\Semana8\Arraylist\Arraylist11\bin\Debug\net5.0\Arraylist11.runtimeconfig.dev.json
+C:\Programas\Estructuras_de_datos\Segundo_corte\Semana6\Semana8\Arraylist\Arraylist11\bin\Debug\net5.0\Arraylist11.dll
+C:\Programas\Estructuras_de_datos\Segundo_corte\Semana6\Semana8\Arraylist\Arraylist11\bin\Debug\net5.0\ref\Arraylist11.dll
+C:\Programas\Estructuras_de_datos\Segundo_corte\Semana6\Semana8\Arraylist\Arraylist11\bin\Debug\net5.0\Arraylist11.pdb
+C:\Programas\Estructuras_de_datos\Segundo_corte\Semana6\Semana8\Arraylist\Arraylist11\obj\Debug\net5.0\Arraylist11.csproj.AssemblyReference.cache
+C:\Programas\Estructuras_de_datos\Segundo_corte\Semana6\Semana8\Arraylist\Arraylist11\obj\Debug\net5.0\Arraylist11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programas\Estructuras_de_datos\Segundo_corte\Semana6\Semana8\Arraylist\Arraylist11\obj\Debug\net5.0\Arraylist11.AssemblyInfoInputs.cache
+C:\Programas\Estructuras_de_datos\Segundo_corte\Semana6\Semana8\Arraylist\Arraylist11\obj\Debug\net5.0\Arraylist11.AssemblyInfo.cs
+C:\Programas\Estructuras_de_datos\Segundo_corte\Semana6\Semana8\Arraylist\Arraylist11\obj\Debug\net5.0\Arraylist11.csproj.CoreCompileInputs.cache
+C:\Programas\Estructuras_de_datos\Segundo_corte\Semana6\Semana8\Arraylist\Arraylist11\obj\Debug\net5.0\Arraylist11.dll
+C:\Programas\Estructuras_de_datos\Segundo_corte\Semana6\Semana8\Arraylist\Arraylist11\obj\Debug\net5.0\ref\Arraylist11.dll
+C:\Programas\Estructuras_de_datos\Segundo_corte\Semana6\Semana8\Arraylist\Arraylist11\obj\Debug\net5.0\Arraylist11.pdb
+C:\Programas\Estructuras_de_datos\Segundo_corte\Semana6\Semana8\Arraylist\Arraylist11\obj\Debug\net5.0\Arraylist11.genruntimeconfig.cache

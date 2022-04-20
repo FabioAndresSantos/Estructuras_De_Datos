@@ -1,0 +1,15 @@
+C:\Users\Familia Salazar\Documents\Estructura de Datos\2do corte\3ra semana\5_Ejercicio\bin\Debug\net6.0\5_Ejercicio.exe
+C:\Users\Familia Salazar\Documents\Estructura de Datos\2do corte\3ra semana\5_Ejercicio\bin\Debug\net6.0\5_Ejercicio.deps.json
+C:\Users\Familia Salazar\Documents\Estructura de Datos\2do corte\3ra semana\5_Ejercicio\bin\Debug\net6.0\5_Ejercicio.runtimeconfig.json
+C:\Users\Familia Salazar\Documents\Estructura de Datos\2do corte\3ra semana\5_Ejercicio\bin\Debug\net6.0\5_Ejercicio.dll
+C:\Users\Familia Salazar\Documents\Estructura de Datos\2do corte\3ra semana\5_Ejercicio\bin\Debug\net6.0\5_Ejercicio.pdb
+C:\Users\Familia Salazar\Documents\Estructura de Datos\2do corte\3ra semana\5_Ejercicio\obj\Debug\net6.0\5_Ejercicio.csproj.AssemblyReference.cache
+C:\Users\Familia Salazar\Documents\Estructura de Datos\2do corte\3ra semana\5_Ejercicio\obj\Debug\net6.0\5_Ejercicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Familia Salazar\Documents\Estructura de Datos\2do corte\3ra semana\5_Ejercicio\obj\Debug\net6.0\5_Ejercicio.AssemblyInfoInputs.cache
+C:\Users\Familia Salazar\Documents\Estructura de Datos\2do corte\3ra semana\5_Ejercicio\obj\Debug\net6.0\5_Ejercicio.AssemblyInfo.cs
+C:\Users\Familia Salazar\Documents\Estructura de Datos\2do corte\3ra semana\5_Ejercicio\obj\Debug\net6.0\5_Ejercicio.csproj.CoreCompileInputs.cache
+C:\Users\Familia Salazar\Documents\Estructura de Datos\2do corte\3ra semana\5_Ejercicio\obj\Debug\net6.0\5_Ejercicio.dll
+C:\Users\Familia Salazar\Documents\Estructura de Datos\2do corte\3ra semana\5_Ejercicio\obj\Debug\net6.0\refint\5_Ejercicio.dll
+C:\Users\Familia Salazar\Documents\Estructura de Datos\2do corte\3ra semana\5_Ejercicio\obj\Debug\net6.0\5_Ejercicio.pdb
+C:\Users\Familia Salazar\Documents\Estructura de Datos\2do corte\3ra semana\5_Ejercicio\obj\Debug\net6.0\5_Ejercicio.genruntimeconfig.cache
+C:\Users\Familia Salazar\Documents\Estructura de Datos\2do corte\3ra semana\5_Ejercicio\obj\Debug\net6.0\ref\5_Ejercicio.dll

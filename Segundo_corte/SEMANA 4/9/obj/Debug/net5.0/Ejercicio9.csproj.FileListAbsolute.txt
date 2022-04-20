@@ -1,0 +1,16 @@
+C:\Programas\Estructuras_de_datos\Segundo_corte\Semana6\Semana6\Ejercicio9\obj\Debug\net5.0\Ejercicio9.csproj.AssemblyReference.cache
+C:\Programas\Estructuras_de_datos\Segundo_corte\Semana6\Semana6\Ejercicio9\obj\Debug\net5.0\Ejercicio9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programas\Estructuras_de_datos\Segundo_corte\Semana6\Semana6\Ejercicio9\obj\Debug\net5.0\Ejercicio9.AssemblyInfoInputs.cache
+C:\Programas\Estructuras_de_datos\Segundo_corte\Semana6\Semana6\Ejercicio9\obj\Debug\net5.0\Ejercicio9.AssemblyInfo.cs
+C:\Programas\Estructuras_de_datos\Segundo_corte\Semana6\Semana6\Ejercicio9\obj\Debug\net5.0\Ejercicio9.csproj.CoreCompileInputs.cache
+C:\Programas\Estructuras_de_datos\Segundo_corte\Semana6\Semana6\Ejercicio9\bin\Debug\net5.0\Ejercicio9.exe
+C:\Programas\Estructuras_de_datos\Segundo_corte\Semana6\Semana6\Ejercicio9\bin\Debug\net5.0\Ejercicio9.deps.json
+C:\Programas\Estructuras_de_datos\Segundo_corte\Semana6\Semana6\Ejercicio9\bin\Debug\net5.0\Ejercicio9.runtimeconfig.json
+C:\Programas\Estructuras_de_datos\Segundo_corte\Semana6\Semana6\Ejercicio9\bin\Debug\net5.0\Ejercicio9.runtimeconfig.dev.json
+C:\Programas\Estructuras_de_datos\Segundo_corte\Semana6\Semana6\Ejercicio9\bin\Debug\net5.0\Ejercicio9.dll
+C:\Programas\Estructuras_de_datos\Segundo_corte\Semana6\Semana6\Ejercicio9\bin\Debug\net5.0\ref\Ejercicio9.dll
+C:\Programas\Estructuras_de_datos\Segundo_corte\Semana6\Semana6\Ejercicio9\bin\Debug\net5.0\Ejercicio9.pdb
+C:\Programas\Estructuras_de_datos\Segundo_corte\Semana6\Semana6\Ejercicio9\obj\Debug\net5.0\Ejercicio9.dll
+C:\Programas\Estructuras_de_datos\Segundo_corte\Semana6\Semana6\Ejercicio9\obj\Debug\net5.0\ref\Ejercicio9.dll
+C:\Programas\Estructuras_de_datos\Segundo_corte\Semana6\Semana6\Ejercicio9\obj\Debug\net5.0\Ejercicio9.pdb
+C:\Programas\Estructuras_de_datos\Segundo_corte\Semana6\Semana6\Ejercicio9\obj\Debug\net5.0\Ejercicio9.genruntimeconfig.cache

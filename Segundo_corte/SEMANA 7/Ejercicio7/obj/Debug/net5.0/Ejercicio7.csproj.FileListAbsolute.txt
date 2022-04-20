@@ -1,0 +1,16 @@
+C:\Programas\Estructuras_de_datos\Segundo_corte\Semana6\Semana7\PIlas_Colas_Listas\Ejercicio7\bin\Debug\net5.0\Ejercicio7.exe
+C:\Programas\Estructuras_de_datos\Segundo_corte\Semana6\Semana7\PIlas_Colas_Listas\Ejercicio7\bin\Debug\net5.0\Ejercicio7.deps.json
+C:\Programas\Estructuras_de_datos\Segundo_corte\Semana6\Semana7\PIlas_Colas_Listas\Ejercicio7\bin\Debug\net5.0\Ejercicio7.runtimeconfig.json
+C:\Programas\Estructuras_de_datos\Segundo_corte\Semana6\Semana7\PIlas_Colas_Listas\Ejercicio7\bin\Debug\net5.0\Ejercicio7.runtimeconfig.dev.json
+C:\Programas\Estructuras_de_datos\Segundo_corte\Semana6\Semana7\PIlas_Colas_Listas\Ejercicio7\bin\Debug\net5.0\Ejercicio7.dll
+C:\Programas\Estructuras_de_datos\Segundo_corte\Semana6\Semana7\PIlas_Colas_Listas\Ejercicio7\bin\Debug\net5.0\ref\Ejercicio7.dll
+C:\Programas\Estructuras_de_datos\Segundo_corte\Semana6\Semana7\PIlas_Colas_Listas\Ejercicio7\bin\Debug\net5.0\Ejercicio7.pdb
+C:\Programas\Estructuras_de_datos\Segundo_corte\Semana6\Semana7\PIlas_Colas_Listas\Ejercicio7\obj\Debug\net5.0\Ejercicio7.csproj.AssemblyReference.cache
+C:\Programas\Estructuras_de_datos\Segundo_corte\Semana6\Semana7\PIlas_Colas_Listas\Ejercicio7\obj\Debug\net5.0\Ejercicio7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programas\Estructuras_de_datos\Segundo_corte\Semana6\Semana7\PIlas_Colas_Listas\Ejercicio7\obj\Debug\net5.0\Ejercicio7.AssemblyInfoInputs.cache
+C:\Programas\Estructuras_de_datos\Segundo_corte\Semana6\Semana7\PIlas_Colas_Listas\Ejercicio7\obj\Debug\net5.0\Ejercicio7.AssemblyInfo.cs
+C:\Programas\Estructuras_de_datos\Segundo_corte\Semana6\Semana7\PIlas_Colas_Listas\Ejercicio7\obj\Debug\net5.0\Ejercicio7.csproj.CoreCompileInputs.cache
+C:\Programas\Estructuras_de_datos\Segundo_corte\Semana6\Semana7\PIlas_Colas_Listas\Ejercicio7\obj\Debug\net5.0\Ejercicio7.dll
+C:\Programas\Estructuras_de_datos\Segundo_corte\Semana6\Semana7\PIlas_Colas_Listas\Ejercicio7\obj\Debug\net5.0\ref\Ejercicio7.dll
+C:\Programas\Estructuras_de_datos\Segundo_corte\Semana6\Semana7\PIlas_Colas_Listas\Ejercicio7\obj\Debug\net5.0\Ejercicio7.pdb
+C:\Programas\Estructuras_de_datos\Segundo_corte\Semana6\Semana7\PIlas_Colas_Listas\Ejercicio7\obj\Debug\net5.0\Ejercicio7.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\Familia Salazar\Documents\Estructura de Datos\2do corte\alumnos\bin\Debug\net6.0\alumnos.exe
+C:\Users\Familia Salazar\Documents\Estructura de Datos\2do corte\alumnos\bin\Debug\net6.0\alumnos.deps.json
+C:\Users\Familia Salazar\Documents\Estructura de Datos\2do corte\alumnos\bin\Debug\net6.0\alumnos.runtimeconfig.json
+C:\Users\Familia Salazar\Documents\Estructura de Datos\2do corte\alumnos\bin\Debug\net6.0\alumnos.dll
+C:\Users\Familia Salazar\Documents\Estructura de Datos\2do corte\alumnos\bin\Debug\net6.0\alumnos.pdb
+C:\Users\Familia Salazar\Documents\Estructura de Datos\2do corte\alumnos\obj\Debug\net6.0\alumnos.csproj.AssemblyReference.cache
+C:\Users\Familia Salazar\Documents\Estructura de Datos\2do corte\alumnos\obj\Debug\net6.0\alumnos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Familia Salazar\Documents\Estructura de Datos\2do corte\alumnos\obj\Debug\net6.0\alumnos.AssemblyInfoInputs.cache
+C:\Users\Familia Salazar\Documents\Estructura de Datos\2do corte\alumnos\obj\Debug\net6.0\alumnos.AssemblyInfo.cs
+C:\Users\Familia Salazar\Documents\Estructura de Datos\2do corte\alumnos\obj\Debug\net6.0\alumnos.csproj.CoreCompileInputs.cache
+C:\Users\Familia Salazar\Documents\Estructura de Datos\2do corte\alumnos\obj\Debug\net6.0\alumnos.dll
+C:\Users\Familia Salazar\Documents\Estructura de Datos\2do corte\alumnos\obj\Debug\net6.0\refint\alumnos.dll
+C:\Users\Familia Salazar\Documents\Estructura de Datos\2do corte\alumnos\obj\Debug\net6.0\alumnos.pdb
+C:\Users\Familia Salazar\Documents\Estructura de Datos\2do corte\alumnos\obj\Debug\net6.0\alumnos.genruntimeconfig.cache
+C:\Users\Familia Salazar\Documents\Estructura de Datos\2do corte\alumnos\obj\Debug\net6.0\ref\alumnos.dll

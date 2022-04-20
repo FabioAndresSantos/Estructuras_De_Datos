@@ -1,0 +1,15 @@
+C:\Users\Familia Salazar\Documents\Estructura de Datos\2do corte\Altura\bin\Debug\net6.0\Altura.exe
+C:\Users\Familia Salazar\Documents\Estructura de Datos\2do corte\Altura\bin\Debug\net6.0\Altura.deps.json
+C:\Users\Familia Salazar\Documents\Estructura de Datos\2do corte\Altura\bin\Debug\net6.0\Altura.runtimeconfig.json
+C:\Users\Familia Salazar\Documents\Estructura de Datos\2do corte\Altura\bin\Debug\net6.0\Altura.dll
+C:\Users\Familia Salazar\Documents\Estructura de Datos\2do corte\Altura\bin\Debug\net6.0\Altura.pdb
+C:\Users\Familia Salazar\Documents\Estructura de Datos\2do corte\Altura\obj\Debug\net6.0\Altura.csproj.AssemblyReference.cache
+C:\Users\Familia Salazar\Documents\Estructura de Datos\2do corte\Altura\obj\Debug\net6.0\Altura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Familia Salazar\Documents\Estructura de Datos\2do corte\Altura\obj\Debug\net6.0\Altura.AssemblyInfoInputs.cache
+C:\Users\Familia Salazar\Documents\Estructura de Datos\2do corte\Altura\obj\Debug\net6.0\Altura.AssemblyInfo.cs
+C:\Users\Familia Salazar\Documents\Estructura de Datos\2do corte\Altura\obj\Debug\net6.0\Altura.csproj.CoreCompileInputs.cache
+C:\Users\Familia Salazar\Documents\Estructura de Datos\2do corte\Altura\obj\Debug\net6.0\Altura.dll
+C:\Users\Familia Salazar\Documents\Estructura de Datos\2do corte\Altura\obj\Debug\net6.0\refint\Altura.dll
+C:\Users\Familia Salazar\Documents\Estructura de Datos\2do corte\Altura\obj\Debug\net6.0\Altura.pdb
+C:\Users\Familia Salazar\Documents\Estructura de Datos\2do corte\Altura\obj\Debug\net6.0\Altura.genruntimeconfig.cache
+C:\Users\Familia Salazar\Documents\Estructura de Datos\2do corte\Altura\obj\Debug\net6.0\ref\Altura.dll

@@ -1,0 +1,15 @@
+C:\Users\Familia Salazar\Documents\Estructura de Datos\2do corte\3ra semana\10_Ejercicio\bin\Debug\net6.0\10_Ejercicio.exe
+C:\Users\Familia Salazar\Documents\Estructura de Datos\2do corte\3ra semana\10_Ejercicio\bin\Debug\net6.0\10_Ejercicio.deps.json
+C:\Users\Familia Salazar\Documents\Estructura de Datos\2do corte\3ra semana\10_Ejercicio\bin\Debug\net6.0\10_Ejercicio.runtimeconfig.json
+C:\Users\Familia Salazar\Documents\Estructura de Datos\2do corte\3ra semana\10_Ejercicio\bin\Debug\net6.0\10_Ejercicio.dll
+C:\Users\Familia Salazar\Documents\Estructura de Datos\2do corte\3ra semana\10_Ejercicio\bin\Debug\net6.0\10_Ejercicio.pdb
+C:\Users\Familia Salazar\Documents\Estructura de Datos\2do corte\3ra semana\10_Ejercicio\obj\Debug\net6.0\10_Ejercicio.csproj.AssemblyReference.cache
+C:\Users\Familia Salazar\Documents\Estructura de Datos\2do corte\3ra semana\10_Ejercicio\obj\Debug\net6.0\10_Ejercicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Familia Salazar\Documents\Estructura de Datos\2do corte\3ra semana\10_Ejercicio\obj\Debug\net6.0\10_Ejercicio.AssemblyInfoInputs.cache
+C:\Users\Familia Salazar\Documents\Estructura de Datos\2do corte\3ra semana\10_Ejercicio\obj\Debug\net6.0\10_Ejercicio.AssemblyInfo.cs
+C:\Users\Familia Salazar\Documents\Estructura de Datos\2do corte\3ra semana\10_Ejercicio\obj\Debug\net6.0\10_Ejercicio.csproj.CoreCompileInputs.cache
+C:\Users\Familia Salazar\Documents\Estructura de Datos\2do corte\3ra semana\10_Ejercicio\obj\Debug\net6.0\10_Ejercicio.dll
+C:\Users\Familia Salazar\Documents\Estructura de Datos\2do corte\3ra semana\10_Ejercicio\obj\Debug\net6.0\refint\10_Ejercicio.dll
+C:\Users\Familia Salazar\Documents\Estructura de Datos\2do corte\3ra semana\10_Ejercicio\obj\Debug\net6.0\10_Ejercicio.pdb
+C:\Users\Familia Salazar\Documents\Estructura de Datos\2do corte\3ra semana\10_Ejercicio\obj\Debug\net6.0\10_Ejercicio.genruntimeconfig.cache
+C:\Users\Familia Salazar\Documents\Estructura de Datos\2do corte\3ra semana\10_Ejercicio\obj\Debug\net6.0\ref\10_Ejercicio.dll

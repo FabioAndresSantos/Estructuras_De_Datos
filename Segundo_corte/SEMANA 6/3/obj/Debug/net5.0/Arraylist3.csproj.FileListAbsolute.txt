@@ -1,0 +1,16 @@
+C:\Programas\Estructuras_de_datos\Segundo_corte\Semana6\Semana8\Arraylist\Arraylist3\obj\Debug\net5.0\Arraylist3.csproj.AssemblyReference.cache
+C:\Programas\Estructuras_de_datos\Segundo_corte\Semana6\Semana8\Arraylist\Arraylist3\obj\Debug\net5.0\Arraylist3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programas\Estructuras_de_datos\Segundo_corte\Semana6\Semana8\Arraylist\Arraylist3\obj\Debug\net5.0\Arraylist3.AssemblyInfoInputs.cache
+C:\Programas\Estructuras_de_datos\Segundo_corte\Semana6\Semana8\Arraylist\Arraylist3\obj\Debug\net5.0\Arraylist3.AssemblyInfo.cs
+C:\Programas\Estructuras_de_datos\Segundo_corte\Semana6\Semana8\Arraylist\Arraylist3\obj\Debug\net5.0\Arraylist3.csproj.CoreCompileInputs.cache
+C:\Programas\Estructuras_de_datos\Segundo_corte\Semana6\Semana8\Arraylist\Arraylist3\bin\Debug\net5.0\Arraylist3.exe
+C:\Programas\Estructuras_de_datos\Segundo_corte\Semana6\Semana8\Arraylist\Arraylist3\bin\Debug\net5.0\Arraylist3.deps.json
+C:\Programas\Estructuras_de_datos\Segundo_corte\Semana6\Semana8\Arraylist\Arraylist3\bin\Debug\net5.0\Arraylist3.runtimeconfig.json
+C:\Programas\Estructuras_de_datos\Segundo_corte\Semana6\Semana8\Arraylist\Arraylist3\bin\Debug\net5.0\Arraylist3.runtimeconfig.dev.json
+C:\Programas\Estructuras_de_datos\Segundo_corte\Semana6\Semana8\Arraylist\Arraylist3\bin\Debug\net5.0\Arraylist3.dll
+C:\Programas\Estructuras_de_datos\Segundo_corte\Semana6\Semana8\Arraylist\Arraylist3\bin\Debug\net5.0\ref\Arraylist3.dll
+C:\Programas\Estructuras_de_datos\Segundo_corte\Semana6\Semana8\Arraylist\Arraylist3\bin\Debug\net5.0\Arraylist3.pdb
+C:\Programas\Estructuras_de_datos\Segundo_corte\Semana6\Semana8\Arraylist\Arraylist3\obj\Debug\net5.0\Arraylist3.dll
+C:\Programas\Estructuras_de_datos\Segundo_corte\Semana6\Semana8\Arraylist\Arraylist3\obj\Debug\net5.0\ref\Arraylist3.dll
+C:\Programas\Estructuras_de_datos\Segundo_corte\Semana6\Semana8\Arraylist\Arraylist3\obj\Debug\net5.0\Arraylist3.pdb
+C:\Programas\Estructuras_de_datos\Segundo_corte\Semana6\Semana8\Arraylist\Arraylist3\obj\Debug\net5.0\Arraylist3.genruntimeconfig.cache

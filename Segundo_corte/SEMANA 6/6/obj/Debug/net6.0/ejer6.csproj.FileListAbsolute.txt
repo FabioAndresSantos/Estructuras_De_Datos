@@ -1,0 +1,15 @@
+C:\Users\Andres Santos\Desktop\semana 6\ejer6\bin\Debug\net6.0\ejer6.exe
+C:\Users\Andres Santos\Desktop\semana 6\ejer6\bin\Debug\net6.0\ejer6.deps.json
+C:\Users\Andres Santos\Desktop\semana 6\ejer6\bin\Debug\net6.0\ejer6.runtimeconfig.json
+C:\Users\Andres Santos\Desktop\semana 6\ejer6\bin\Debug\net6.0\ejer6.dll
+C:\Users\Andres Santos\Desktop\semana 6\ejer6\bin\Debug\net6.0\ejer6.pdb
+C:\Users\Andres Santos\Desktop\semana 6\ejer6\obj\Debug\net6.0\ejer6.csproj.AssemblyReference.cache
+C:\Users\Andres Santos\Desktop\semana 6\ejer6\obj\Debug\net6.0\ejer6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andres Santos\Desktop\semana 6\ejer6\obj\Debug\net6.0\ejer6.AssemblyInfoInputs.cache
+C:\Users\Andres Santos\Desktop\semana 6\ejer6\obj\Debug\net6.0\ejer6.AssemblyInfo.cs
+C:\Users\Andres Santos\Desktop\semana 6\ejer6\obj\Debug\net6.0\ejer6.csproj.CoreCompileInputs.cache
+C:\Users\Andres Santos\Desktop\semana 6\ejer6\obj\Debug\net6.0\ejer6.dll
+C:\Users\Andres Santos\Desktop\semana 6\ejer6\obj\Debug\net6.0\refint\ejer6.dll
+C:\Users\Andres Santos\Desktop\semana 6\ejer6\obj\Debug\net6.0\ejer6.pdb
+C:\Users\Andres Santos\Desktop\semana 6\ejer6\obj\Debug\net6.0\ejer6.genruntimeconfig.cache
+C:\Users\Andres Santos\Desktop\semana 6\ejer6\obj\Debug\net6.0\ref\ejer6.dll

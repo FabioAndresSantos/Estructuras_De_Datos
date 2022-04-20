@@ -1,0 +1,16 @@
+C:\Programas\Estructuras_de_datos\Segundo_corte\Semana6\Semana9\PIlas_Colas_Listas\PIlas_Colas_Listas\bin\Debug\net5.0\PIlas_Colas_Listas.exe
+C:\Programas\Estructuras_de_datos\Segundo_corte\Semana6\Semana9\PIlas_Colas_Listas\PIlas_Colas_Listas\bin\Debug\net5.0\PIlas_Colas_Listas.deps.json
+C:\Programas\Estructuras_de_datos\Segundo_corte\Semana6\Semana9\PIlas_Colas_Listas\PIlas_Colas_Listas\bin\Debug\net5.0\PIlas_Colas_Listas.runtimeconfig.json
+C:\Programas\Estructuras_de_datos\Segundo_corte\Semana6\Semana9\PIlas_Colas_Listas\PIlas_Colas_Listas\bin\Debug\net5.0\PIlas_Colas_Listas.runtimeconfig.dev.json
+C:\Programas\Estructuras_de_datos\Segundo_corte\Semana6\Semana9\PIlas_Colas_Listas\PIlas_Colas_Listas\bin\Debug\net5.0\PIlas_Colas_Listas.dll
+C:\Programas\Estructuras_de_datos\Segundo_corte\Semana6\Semana9\PIlas_Colas_Listas\PIlas_Colas_Listas\bin\Debug\net5.0\ref\PIlas_Colas_Listas.dll
+C:\Programas\Estructuras_de_datos\Segundo_corte\Semana6\Semana9\PIlas_Colas_Listas\PIlas_Colas_Listas\bin\Debug\net5.0\PIlas_Colas_Listas.pdb
+C:\Programas\Estructuras_de_datos\Segundo_corte\Semana6\Semana9\PIlas_Colas_Listas\PIlas_Colas_Listas\obj\Debug\net5.0\PIlas_Colas_Listas.csproj.AssemblyReference.cache
+C:\Programas\Estructuras_de_datos\Segundo_corte\Semana6\Semana9\PIlas_Colas_Listas\PIlas_Colas_Listas\obj\Debug\net5.0\PIlas_Colas_Listas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programas\Estructuras_de_datos\Segundo_corte\Semana6\Semana9\PIlas_Colas_Listas\PIlas_Colas_Listas\obj\Debug\net5.0\PIlas_Colas_Listas.AssemblyInfoInputs.cache
+C:\Programas\Estructuras_de_datos\Segundo_corte\Semana6\Semana9\PIlas_Colas_Listas\PIlas_Colas_Listas\obj\Debug\net5.0\PIlas_Colas_Listas.AssemblyInfo.cs
+C:\Programas\Estructuras_de_datos\Segundo_corte\Semana6\Semana9\PIlas_Colas_Listas\PIlas_Colas_Listas\obj\Debug\net5.0\PIlas_Colas_Listas.csproj.CoreCompileInputs.cache
+C:\Programas\Estructuras_de_datos\Segundo_corte\Semana6\Semana9\PIlas_Colas_Listas\PIlas_Colas_Listas\obj\Debug\net5.0\PIlas_Colas_Listas.dll
+C:\Programas\Estructuras_de_datos\Segundo_corte\Semana6\Semana9\PIlas_Colas_Listas\PIlas_Colas_Listas\obj\Debug\net5.0\ref\PIlas_Colas_Listas.dll
+C:\Programas\Estructuras_de_datos\Segundo_corte\Semana6\Semana9\PIlas_Colas_Listas\PIlas_Colas_Listas\obj\Debug\net5.0\PIlas_Colas_Listas.pdb
+C:\Programas\Estructuras_de_datos\Segundo_corte\Semana6\Semana9\PIlas_Colas_Listas\PIlas_Colas_Listas\obj\Debug\net5.0\PIlas_Colas_Listas.genruntimeconfig.cache
