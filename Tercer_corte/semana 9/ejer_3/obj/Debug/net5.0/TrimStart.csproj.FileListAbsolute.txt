@@ -1,0 +1,16 @@
+C:\Programas\Estructuras_de_datos\Tercer_corte\SEMANA8\Cadenas\TrimStart\bin\Debug\net5.0\TrimStart.exe
+C:\Programas\Estructuras_de_datos\Tercer_corte\SEMANA8\Cadenas\TrimStart\bin\Debug\net5.0\TrimStart.deps.json
+C:\Programas\Estructuras_de_datos\Tercer_corte\SEMANA8\Cadenas\TrimStart\bin\Debug\net5.0\TrimStart.runtimeconfig.json
+C:\Programas\Estructuras_de_datos\Tercer_corte\SEMANA8\Cadenas\TrimStart\bin\Debug\net5.0\TrimStart.runtimeconfig.dev.json
+C:\Programas\Estructuras_de_datos\Tercer_corte\SEMANA8\Cadenas\TrimStart\bin\Debug\net5.0\TrimStart.dll
+C:\Programas\Estructuras_de_datos\Tercer_corte\SEMANA8\Cadenas\TrimStart\bin\Debug\net5.0\ref\TrimStart.dll
+C:\Programas\Estructuras_de_datos\Tercer_corte\SEMANA8\Cadenas\TrimStart\bin\Debug\net5.0\TrimStart.pdb
+C:\Programas\Estructuras_de_datos\Tercer_corte\SEMANA8\Cadenas\TrimStart\obj\Debug\net5.0\TrimStart.csproj.AssemblyReference.cache
+C:\Programas\Estructuras_de_datos\Tercer_corte\SEMANA8\Cadenas\TrimStart\obj\Debug\net5.0\TrimStart.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programas\Estructuras_de_datos\Tercer_corte\SEMANA8\Cadenas\TrimStart\obj\Debug\net5.0\TrimStart.AssemblyInfoInputs.cache
+C:\Programas\Estructuras_de_datos\Tercer_corte\SEMANA8\Cadenas\TrimStart\obj\Debug\net5.0\TrimStart.AssemblyInfo.cs
+C:\Programas\Estructuras_de_datos\Tercer_corte\SEMANA8\Cadenas\TrimStart\obj\Debug\net5.0\TrimStart.csproj.CoreCompileInputs.cache
+C:\Programas\Estructuras_de_datos\Tercer_corte\SEMANA8\Cadenas\TrimStart\obj\Debug\net5.0\TrimStart.dll
+C:\Programas\Estructuras_de_datos\Tercer_corte\SEMANA8\Cadenas\TrimStart\obj\Debug\net5.0\ref\TrimStart.dll
+C:\Programas\Estructuras_de_datos\Tercer_corte\SEMANA8\Cadenas\TrimStart\obj\Debug\net5.0\TrimStart.pdb
+C:\Programas\Estructuras_de_datos\Tercer_corte\SEMANA8\Cadenas\TrimStart\obj\Debug\net5.0\TrimStart.genruntimeconfig.cache
