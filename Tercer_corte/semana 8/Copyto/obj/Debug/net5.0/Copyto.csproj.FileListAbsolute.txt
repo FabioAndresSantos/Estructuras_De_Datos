@@ -1,0 +1,16 @@
+C:\Programas\Estructuras_de_datos\Tercer_corte\SEMANA8\Cadenas\Copyto\bin\Debug\net5.0\Copyto.exe
+C:\Programas\Estructuras_de_datos\Tercer_corte\SEMANA8\Cadenas\Copyto\bin\Debug\net5.0\Copyto.deps.json
+C:\Programas\Estructuras_de_datos\Tercer_corte\SEMANA8\Cadenas\Copyto\bin\Debug\net5.0\Copyto.runtimeconfig.json
+C:\Programas\Estructuras_de_datos\Tercer_corte\SEMANA8\Cadenas\Copyto\bin\Debug\net5.0\Copyto.runtimeconfig.dev.json
+C:\Programas\Estructuras_de_datos\Tercer_corte\SEMANA8\Cadenas\Copyto\bin\Debug\net5.0\Copyto.dll
+C:\Programas\Estructuras_de_datos\Tercer_corte\SEMANA8\Cadenas\Copyto\bin\Debug\net5.0\ref\Copyto.dll
+C:\Programas\Estructuras_de_datos\Tercer_corte\SEMANA8\Cadenas\Copyto\bin\Debug\net5.0\Copyto.pdb
+C:\Programas\Estructuras_de_datos\Tercer_corte\SEMANA8\Cadenas\Copyto\obj\Debug\net5.0\Copyto.csproj.AssemblyReference.cache
+C:\Programas\Estructuras_de_datos\Tercer_corte\SEMANA8\Cadenas\Copyto\obj\Debug\net5.0\Copyto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programas\Estructuras_de_datos\Tercer_corte\SEMANA8\Cadenas\Copyto\obj\Debug\net5.0\Copyto.AssemblyInfoInputs.cache
+C:\Programas\Estructuras_de_datos\Tercer_corte\SEMANA8\Cadenas\Copyto\obj\Debug\net5.0\Copyto.AssemblyInfo.cs
+C:\Programas\Estructuras_de_datos\Tercer_corte\SEMANA8\Cadenas\Copyto\obj\Debug\net5.0\Copyto.csproj.CoreCompileInputs.cache
+C:\Programas\Estructuras_de_datos\Tercer_corte\SEMANA8\Cadenas\Copyto\obj\Debug\net5.0\Copyto.dll
+C:\Programas\Estructuras_de_datos\Tercer_corte\SEMANA8\Cadenas\Copyto\obj\Debug\net5.0\ref\Copyto.dll
+C:\Programas\Estructuras_de_datos\Tercer_corte\SEMANA8\Cadenas\Copyto\obj\Debug\net5.0\Copyto.pdb
+C:\Programas\Estructuras_de_datos\Tercer_corte\SEMANA8\Cadenas\Copyto\obj\Debug\net5.0\Copyto.genruntimeconfig.cache

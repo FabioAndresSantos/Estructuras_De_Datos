@@ -1,0 +1,16 @@
+C:\Programas\Estructuras_de_datos\Tercer_corte\SEMANA8\Cadenas\Compare\bin\Debug\net5.0\Compare.exe
+C:\Programas\Estructuras_de_datos\Tercer_corte\SEMANA8\Cadenas\Compare\bin\Debug\net5.0\Compare.deps.json
+C:\Programas\Estructuras_de_datos\Tercer_corte\SEMANA8\Cadenas\Compare\bin\Debug\net5.0\Compare.runtimeconfig.json
+C:\Programas\Estructuras_de_datos\Tercer_corte\SEMANA8\Cadenas\Compare\bin\Debug\net5.0\Compare.runtimeconfig.dev.json
+C:\Programas\Estructuras_de_datos\Tercer_corte\SEMANA8\Cadenas\Compare\bin\Debug\net5.0\Compare.dll
+C:\Programas\Estructuras_de_datos\Tercer_corte\SEMANA8\Cadenas\Compare\bin\Debug\net5.0\ref\Compare.dll
+C:\Programas\Estructuras_de_datos\Tercer_corte\SEMANA8\Cadenas\Compare\bin\Debug\net5.0\Compare.pdb
+C:\Programas\Estructuras_de_datos\Tercer_corte\SEMANA8\Cadenas\Compare\obj\Debug\net5.0\Compare.csproj.AssemblyReference.cache
+C:\Programas\Estructuras_de_datos\Tercer_corte\SEMANA8\Cadenas\Compare\obj\Debug\net5.0\Compare.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programas\Estructuras_de_datos\Tercer_corte\SEMANA8\Cadenas\Compare\obj\Debug\net5.0\Compare.AssemblyInfoInputs.cache
+C:\Programas\Estructuras_de_datos\Tercer_corte\SEMANA8\Cadenas\Compare\obj\Debug\net5.0\Compare.AssemblyInfo.cs
+C:\Programas\Estructuras_de_datos\Tercer_corte\SEMANA8\Cadenas\Compare\obj\Debug\net5.0\Compare.csproj.CoreCompileInputs.cache
+C:\Programas\Estructuras_de_datos\Tercer_corte\SEMANA8\Cadenas\Compare\obj\Debug\net5.0\Compare.dll
+C:\Programas\Estructuras_de_datos\Tercer_corte\SEMANA8\Cadenas\Compare\obj\Debug\net5.0\ref\Compare.dll
+C:\Programas\Estructuras_de_datos\Tercer_corte\SEMANA8\Cadenas\Compare\obj\Debug\net5.0\Compare.pdb
+C:\Programas\Estructuras_de_datos\Tercer_corte\SEMANA8\Cadenas\Compare\obj\Debug\net5.0\Compare.genruntimeconfig.cache

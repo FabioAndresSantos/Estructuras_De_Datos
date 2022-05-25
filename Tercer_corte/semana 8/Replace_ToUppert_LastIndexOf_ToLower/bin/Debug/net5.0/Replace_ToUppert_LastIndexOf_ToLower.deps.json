@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Replace_ToUppert_LastIndexOf_ToLower/1.0.0": {
+        "runtime": {
+          "Replace_ToUppert_LastIndexOf_ToLower.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Replace_ToUppert_LastIndexOf_ToLower/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

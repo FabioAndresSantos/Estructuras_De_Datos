@@ -1,0 +1,16 @@
+C:\Programas\Estructuras_de_datos\Tercer_corte\SEMANA8\Cadenas\Insert\bin\Debug\net5.0\Insert.exe
+C:\Programas\Estructuras_de_datos\Tercer_corte\SEMANA8\Cadenas\Insert\bin\Debug\net5.0\Insert.deps.json
+C:\Programas\Estructuras_de_datos\Tercer_corte\SEMANA8\Cadenas\Insert\bin\Debug\net5.0\Insert.runtimeconfig.json
+C:\Programas\Estructuras_de_datos\Tercer_corte\SEMANA8\Cadenas\Insert\bin\Debug\net5.0\Insert.runtimeconfig.dev.json
+C:\Programas\Estructuras_de_datos\Tercer_corte\SEMANA8\Cadenas\Insert\bin\Debug\net5.0\Insert.dll
+C:\Programas\Estructuras_de_datos\Tercer_corte\SEMANA8\Cadenas\Insert\bin\Debug\net5.0\ref\Insert.dll
+C:\Programas\Estructuras_de_datos\Tercer_corte\SEMANA8\Cadenas\Insert\bin\Debug\net5.0\Insert.pdb
+C:\Programas\Estructuras_de_datos\Tercer_corte\SEMANA8\Cadenas\Insert\obj\Debug\net5.0\Insert.csproj.AssemblyReference.cache
+C:\Programas\Estructuras_de_datos\Tercer_corte\SEMANA8\Cadenas\Insert\obj\Debug\net5.0\Insert.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programas\Estructuras_de_datos\Tercer_corte\SEMANA8\Cadenas\Insert\obj\Debug\net5.0\Insert.AssemblyInfoInputs.cache
+C:\Programas\Estructuras_de_datos\Tercer_corte\SEMANA8\Cadenas\Insert\obj\Debug\net5.0\Insert.AssemblyInfo.cs
+C:\Programas\Estructuras_de_datos\Tercer_corte\SEMANA8\Cadenas\Insert\obj\Debug\net5.0\Insert.csproj.CoreCompileInputs.cache
+C:\Programas\Estructuras_de_datos\Tercer_corte\SEMANA8\Cadenas\Insert\obj\Debug\net5.0\Insert.dll
+C:\Programas\Estructuras_de_datos\Tercer_corte\SEMANA8\Cadenas\Insert\obj\Debug\net5.0\ref\Insert.dll
+C:\Programas\Estructuras_de_datos\Tercer_corte\SEMANA8\Cadenas\Insert\obj\Debug\net5.0\Insert.pdb
+C:\Programas\Estructuras_de_datos\Tercer_corte\SEMANA8\Cadenas\Insert\obj\Debug\net5.0\Insert.genruntimeconfig.cache
