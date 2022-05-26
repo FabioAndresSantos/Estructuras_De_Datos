@@ -6,7 +6,7 @@ namespace trimEnd
     {
         static void Main(string[] args)
         {
-                string sentence = "Hola gente, soy Esteban y tengo la novia más preciosa del mundo.";
+                string sentence = "Hola gente, como estan el dia de hoy.";
                 char[] charsToTrim = {',', '.', ' '};
                 string[] words = sentence.Split();
                 foreach (string word in words)
